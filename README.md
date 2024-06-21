@@ -10,7 +10,7 @@ If you use results of the experiment conducted with the setup for academic work 
 ## Description of the experiment
 :tv: The image below points to a YouTube video of analysis of the experimental results:
 
-[![demo video](ReadmeFiles/thumbnail_demo_video.jpg)](https://youtu.be/s1Ww_vTWn8k)
+[![demo video](ReadmeFiles/thumbnail_demo_video.png)](https://youtu.be/s1Ww_vTWn8k)
 
 Additionally, there are three more videos which demonstrate the setup:
 1. LTY (Look to Yield) trial in driver-pedestrian interaction study in a coupled simulator with HMD with eye-tracking [https://youtube.com/shorts/-N8f-2EhPtg](https://youtube.com/shorts/-N8f-2EhPtg)
